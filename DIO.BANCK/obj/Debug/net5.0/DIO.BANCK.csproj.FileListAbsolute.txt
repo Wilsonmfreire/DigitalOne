@@ -1,0 +1,16 @@
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\obj\Debug\net5.0\DIO.BANCK.csprojAssemblyReference.cache
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\obj\Debug\net5.0\DIO.BANCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\obj\Debug\net5.0\DIO.BANCK.AssemblyInfoInputs.cache
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\obj\Debug\net5.0\DIO.BANCK.AssemblyInfo.cs
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\obj\Debug\net5.0\DIO.BANCK.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\bin\Debug\net5.0\DIO.BANCK.exe
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\bin\Debug\net5.0\DIO.BANCK.deps.json
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\bin\Debug\net5.0\DIO.BANCK.runtimeconfig.json
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\bin\Debug\net5.0\DIO.BANCK.runtimeconfig.dev.json
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\bin\Debug\net5.0\DIO.BANCK.dll
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\bin\Debug\net5.0\ref\DIO.BANCK.dll
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\bin\Debug\net5.0\DIO.BANCK.pdb
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\obj\Debug\net5.0\DIO.BANCK.dll
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\obj\Debug\net5.0\ref\DIO.BANCK.dll
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\obj\Debug\net5.0\DIO.BANCK.pdb
+C:\Users\Wilson\Documents\DigitalOne\DIO.BANCK\obj\Debug\net5.0\DIO.BANCK.genruntimeconfig.cache

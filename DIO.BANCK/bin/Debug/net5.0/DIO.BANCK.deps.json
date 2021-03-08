@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIO.BANCK/1.0.0": {
+        "runtime": {
+          "DIO.BANCK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO.BANCK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
