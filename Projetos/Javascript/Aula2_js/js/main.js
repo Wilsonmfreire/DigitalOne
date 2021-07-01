@@ -1,9 +1,31 @@
+/*trabalhando com funcoes
+function soma(n1, n2) {
+    return n1 + n2;
+};
+
+var validar = 0;
+
+function validadeIdade(idade){
+    if (idade >= 18){
+        validar = true
+    }else{
+        validar = false
+    }
+    return validar;
+}
+
+var idade = prompt("Qual a sua idade? ");
+validadeIdade(idade);
+console.log(validar)
+*/
+
+
+/*trabalhando Date
 var d = new Date();
 alert(d.getDay());
 alert(d.getHours());
 alert(d.getMinutes());
-
-
+*/
 /*estrutura de repeticao com while
 var count;
 for (count = 0; count <=5; count++) {
