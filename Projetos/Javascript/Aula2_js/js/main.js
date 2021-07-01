@@ -1,3 +1,12 @@
+function trocar(element){
+    element.innerHTML = "Obrigado por ter passado o mouse";
+    //alert("trocar de texto");
+}
+
+function voltar(element){
+    element.innerHTML = "Passe o mouse aqui";
+}
+
 function clicou(){
     //injetando html e trabalhando com clique
     document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar!</b>"
@@ -5,11 +14,18 @@ function clicou(){
 
 function redirecionar(){
     //para ser direcionado a outra pagina nova guia popup
-    //window.open("https://www.youtube.com/")
+    window.open("https://www.youtube.com/")
     //ira ser direcionado a outra pagina na mesma guia.
-    window.location.href = "https://www.youtube.com/";
+    //window.location.href = "https://www.youtube.com/";
 }
 
+function load(){
+    alert("Página carregada")
+}
+
+function funcaochange(elemento){
+    console.log(elemento.value)
+}
 /*trabalhando com funcoes
 function soma(n1, n2) {
     return n1 + n2;

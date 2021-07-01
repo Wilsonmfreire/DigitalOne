@@ -7,10 +7,21 @@
     <script type="text/javascript" src="js/main.js"></script>
     <title>Minha Página</title>
 </head>
-<body>
+<body onload="load()">
     <!--onclick para clicar na tela
     quando usar algo com o js sempre passar () p/ser visto no js-->
     <button type="button" onclick="clicou()">Clique aqui!</button>
     <p id="agradecimento" onclick="redirecionar()"></p>
+    <!--onmouseover evento de passar o mouse por cima -->
+    <!--onmouseout quando terminar o evento do onmouseover -->
+    <!--usando this ele passa ele mesmo sendo assim nao precisamos usar id-->
+    <p onmouseover="trocar(this)" onmouseout="voltar(this)">Passe o mouse aqui</p>
+    <p onmouseover="trocar(this)" onmouseout="voltar(this)">Passe o mouse aqui</p>
+    <p onmouseover="trocar(this)" onmouseout="voltar(this)">Passe o mouse aqui</p>
+    <select onchange="funcaochange(this)">
+        <option value="1">valor 1</option>
+        <option value="2">valor 2</option>
+        <option value="3">valor 3</option>
+    </select>
 </body>
 </html>
