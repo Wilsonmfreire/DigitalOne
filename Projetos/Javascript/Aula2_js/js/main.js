@@ -1,3 +1,8 @@
+function clicou(){
+    //injetando html e trabalhando com clique
+    document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar!</b>"
+}
+
 /*trabalhando com funcoes
 function soma(n1, n2) {
     return n1 + n2;
