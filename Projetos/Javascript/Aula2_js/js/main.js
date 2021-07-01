@@ -1,9 +1,16 @@
+var count;
+for (count = 0; count <=5; count++) {
+    alert(count);
+    
+}
+
+/* estrutura de repeticao com while
 var count = 0;
 while (count <=5){
     console.log(count);
     alert(count)
     count++;
-}
+}*/
 
 /*condicionai if / else
 //prompt exibi uma pergunta para o usuario na tela.
