@@ -1,0 +1,1 @@
+# 🐍 Branch reservado para desenvolvimento do conhecimento em Python.
